@@ -1,0 +1,9 @@
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Debug\FileRenamePro.exe.config
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Debug\FileRenamePro.exe
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Debug\FileRenamePro.pdb
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Debug\FileRenamePro.FileRenameForm.resources
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Debug\FileRenamePro.Properties.Resources.resources
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Debug\FileRenamePro.csproj.GenerateResource.cache
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Debug\FileRenamePro.csproj.CoreCompileInputs.cache
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Debug\FileRenamePro.exe
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Debug\FileRenamePro.pdb

@@ -1,0 +1,14 @@
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Release\FileRenamePro.exe.config
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Release\FileRenamePro.exe.manifest
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Release\FileRenamePro.application
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Release\FileRenamePro.exe
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\bin\Release\FileRenamePro.pdb
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.FileRenameForm.resources
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.Properties.Resources.resources
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.csproj.GenerateResource.cache
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.csproj.CoreCompileInputs.cache
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.TrustInfo.xml
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.exe.manifest
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.application
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.exe
+C:\Users\YunusE\source\repos\FileRenamePro\FileRenamePro\obj\Release\FileRenamePro.pdb
