@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("FileRenamePro")]
 [assembly: AssemblyDescription("Dosya isimlerini toplu bir şekilde düzenlemeye yarayan bir araçtır")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Sağlamcılar A.Ş.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FileRenamePro")]
 [assembly: AssemblyCopyright("Copyright YEE ©  Nov 2022")]
 [assembly: AssemblyTrademark("Yunus Emre Ertütüncü")]
